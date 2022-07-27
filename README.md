@@ -2,6 +2,7 @@
 A Tool Created To Add Sex Toy Support
 To VRChat; A Free VR/Desktop Game On Steam.
 Works Regardless Of The EAC / EasyAntiCheat Update.
+RealFeel Also Does Not Depend On OSC.
 
 No, This Is Not A Mod. It Is A Tool.
 
