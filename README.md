@@ -10,8 +10,6 @@ For Example; Someone Touches You Down There,
 Toy Reacts. Simple. Toy Intensity Varies On
 Amount Of Area In Sensor Covered/Occluded Or How Deep One Is Inside You.
 
--Officially Partnered With Lovense!
-
 You Can Also Share Your Lovense/Other Or VRC Names
 For Others To Add Or Control You ❤️
 
