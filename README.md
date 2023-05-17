@@ -13,4 +13,5 @@ Amount Of Area In Sensor Covered/Occluded Or How Deep One Is Inside You.
 You Can Also Share Your Lovense/Other Or VRC Names
 For Others To Add Or Control You ❤️
 
-To Buy It, Join Here And Read About Such: http://RealFeel.uk
+To Buy/Try It, Join Here And Read About Such: http://RealFeel.uk
+A Free Trial Is Available
