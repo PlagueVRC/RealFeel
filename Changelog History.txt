@@ -1,1 +1,2 @@
 Improve wording on Capture page regarding capture pos, res and window res.
+Fix promo clock being incorrect based on time zone.
