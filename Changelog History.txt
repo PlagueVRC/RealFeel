@@ -6,5 +6,8 @@ RealFeel now has concrete future-proofing support for any future Lovense toys, u
 Fixed the annoying af bug with first time setup's get toys bugging out, where a found success still shows failed and thus doesn't change tab automatically.
 Added the RealFeel logo to all forms so they show on hovering on RealFeel in the taskbar.
 Renamed the Get Toys button in first time setup to Continue, and made the label above it disclose it will scan the users network for a Lovense server.
+OSC Manager now lets the user add a parameter row to input the info about a parameter manually. Experimental and untested.
+
+REALFEEL IS NOW SELECTIVELY DPI AWARE! This means 4K monitors and any monitors in general using windows scaling other than 100% wont be as much of a pain!
 
 Way too many other changes that I cannot recall them all.
