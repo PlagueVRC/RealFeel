@@ -13,3 +13,6 @@ REALFEEL IS NOW SELECTIVELY DPI AWARE! This means 4K monitors and any monitors i
 Way too many other changes that I cannot recall them all.
 
 Removed Notification Form for now, until it is better engineered.
+
+Security Improvement.
+Better explain the OSC Support system.
