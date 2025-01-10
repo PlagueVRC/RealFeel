@@ -1,1 +1,1 @@
-Fix all known bugs in the OSC system.
+Rewritten Lovense system to support different toy features per version with fallback support
