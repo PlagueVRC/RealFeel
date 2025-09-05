@@ -1,1 +1,1 @@
-Fixed cert match.
+Minimized Windows API's used to help with people getting RealFeel working on Linux.
