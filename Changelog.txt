@@ -1,1 +1,2 @@
 Fixed cert
+Re-coded auto detect colour a bit, hopefully works better
