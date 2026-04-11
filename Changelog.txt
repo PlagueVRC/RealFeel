@@ -1,1 +1,2 @@
-Updated cert.
+Truly fixed Could not load file or assembly 'System.Runtime.CompilerServices.Unsafe' exception.
+Please reinstall via the installer if you have the above error, as it will not auto update if that error is thrown.
