@@ -1,2 +1,1 @@
-Truly fixed Could not load file or assembly 'System.Runtime.CompilerServices.Unsafe' exception.
-Please reinstall via the installer if you have the above error, as it will not auto update if that error is thrown.
+Fixed errors during get toys for some toys, because lovense was dumb asf and made version include text now for no apparent reason.
