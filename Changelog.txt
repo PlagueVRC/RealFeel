@@ -1,1 +1,1 @@
-Fixed errors during get toys for some toys, because lovense was dumb asf and made version include text now for no apparent reason.
+Fixed cert.
